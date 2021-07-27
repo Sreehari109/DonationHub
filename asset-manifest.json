@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DonationHub%20/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/DonationHub%20/static/js/main.d953e78f.chunk.js",
+    "main.js.map": "/DonationHub%20/static/js/main.d953e78f.chunk.js.map",
+    "runtime-main.js": "/DonationHub%20/static/js/runtime-main.e9419354.js",
+    "runtime-main.js.map": "/DonationHub%20/static/js/runtime-main.e9419354.js.map",
+    "static/js/2.f28fb96d.chunk.js": "/DonationHub%20/static/js/2.f28fb96d.chunk.js",
+    "static/js/2.f28fb96d.chunk.js.map": "/DonationHub%20/static/js/2.f28fb96d.chunk.js.map",
+    "index.html": "/DonationHub%20/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/DonationHub%20/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f28fb96d.chunk.js.LICENSE.txt": "/DonationHub%20/static/js/2.f28fb96d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9419354.js",
+    "static/js/2.f28fb96d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d953e78f.chunk.js"
+  ]
+}
